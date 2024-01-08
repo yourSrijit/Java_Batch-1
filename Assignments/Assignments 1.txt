@@ -1,0 +1,47 @@
+1. Write a Java program to print 'Hello' on screen and your name on a separate line.
+
+
+2. Write a Java program that takes two numbers as input and displays the product of two numbers.
+Test Data:
+Input first number: 25
+Input second number: 5
+Expected Output :
+25 x 5 = 125
+
+
+3. Write a Java program to print the sum (addition), multiply, subtract, divide and remainder of two numbers.
+Test Data:
+Input first number: 125
+Input second number: 24
+Expected Output :
+125 + 24 = 149
+125 - 24 = 101
+125 x 24 = 3000
+125 / 24 = 5
+125 mod 24 = 5
+
+
+4. Write a Java program that takes a number as input and prints its multiplication table up to 10.
+Test Data:
+Input a number: 8
+Expected Output :
+8 x 1 = 8
+8 x 2 = 16
+8 x 3 = 24
+...
+8 x 10 = 80
+
+
+5. Write a Java program to print the area and perimeter of a circle using findCircle() method.
+Test Data:
+Radius = 7.5
+Expected Output
+Perimeter is = 47.12388980384689
+Area is = 176.71458676442586
+
+6. Write a Java program that takes three numbers as input to calculate and print the average of the numbers.
+Click me to see the solution
+
+7. Write a Java program to print the area and perimeter of a rectangle.
+Test Data:
+Width = 5.5 Height = 8.5
