@@ -1,0 +1,20 @@
+1. Write a program to print the roll number and average marks of each student in three subjects (each out of 100). The marks are entered by user. [ use array of objects]
+
+2. Write a program to calculate the area of a circle, square, rectangle and cylinder using the concept of method overloading.
+
+3. Write a program to return a count of the total number of students in a class using the concept of static variable and static method.
+
+4.Create an Employee class with attributes empId, empName, empSalary. Implement constructor overloading to initialize the employee attributes based on different parameters. Use a static variable totalEmployees to keep track of the number of employees created.
+
+5.Construct a Book class with attributes like bookId, bookTitle, and author. Implement a constructor to initialize these attributes and another method getDetails() to display book information.
+
+6.Develop a TemperatureConverter class with static methods to convert temperatures between Celsius and Fahrenheit. Create an App class that uses these methods to convert temperatures entered by the user.
+
+
+Interview Question
+---------------------
+1. What is Static means ?
+2. What is method overloading ?
+3. How to create object array ?
+4. why this keyword used?
+5. Relation between class and object?
