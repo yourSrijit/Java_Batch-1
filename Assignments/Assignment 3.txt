@@ -1,6 +1,6 @@
 1:Create a class Vehicle with attributes like make, model, and year. Then, create two subclasses, Car and Motorcycle. Implement appropriate constructors and methods to showcase inheritance.
 
-2:Define a class Animal with methods like eat and sleep. Create two subclasses, Mammal and Bird, representing different types of animals. Demonstrate single inheritance, multiple inheritance, and hierarchical inheritance.
+2:Define a class Animal with methods like eat and sleep. Create two subclasses, Mammal and Bird, representing different types of animals. Demonstrate single inheritance, multilavel inheritance, and hierarchical inheritance.
 
 3: Write a program that takes a sentence as input and prints the following:
 
