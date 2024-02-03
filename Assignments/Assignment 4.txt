@@ -1,0 +1,28 @@
+
+1.Create a class Circle with a final variable PI initialized to 3.14. Implement a method calculateArea() that calculates and returns the area of a circle given its radius.
+
+2.Define a superclass Vehicle with attributes speed and capacity. Create a subclass Car that inherits from Vehicle and adds a new attribute model. Implement a method displayDetails() in Car that displays all attributes including those from the superclass.
+Inheritance:
+
+3.Create a class Shape with a method draw() that prints "Drawing Shape". Extend this class with subclasses Circle and Rectangle. Override the draw() method in both subclasses to print "Drawing Circle" and "Drawing Rectangle" respectively.
+Access Modifiers:
+
+4.Define a class BankAccount with private attributes accountNumber and balance. Implement public methods deposit() and withdraw() to modify the balance. Create a subclass SavingsAccount in the same package that adds an attribute interestRate and a method calculateInterest().
+Final & Inheritance:
+
+5.Create a class Person with final method introduce() that prints "I am a person". Create subclasses Student and Teacher that inherit from Person. Attempt to override the introduce() method in both subclasses and observe the result.
+Access Modifiers & Inheritance:
+
+6.Define a superclass Animal with a protected attribute name. Create a subclass Dog in the same package that overrides a method getName() to return the name of the dog.
+Final & Access Modifiers:
+
+7.Define a final class MathConstants with final variables PI, E, and G. Attempt to inherit from this class and observe the result.
+Super & Access Modifiers:
+
+8.Create a superclass Employee with private attributes employeeID and salary. Implement a constructor to initialize these attributes. Create a subclass Manager that inherits from Employee and adds an attribute department. Implement a method displayDetails() in Manager that prints all attributes including those from the superclass.
+Final & Super:
+
+9.Create a final class Shape with a method draw() that prints "Drawing shape". Attempt to create a subclass of Shape and observe the result.
+Access Modifiers & Final:
+
+10.Define a class A with a default constructor and a method display() with default access modifier. In a different package, create a subclass B that attempts to inherit from A and observe the result.
